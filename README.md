@@ -1,3 +1,5 @@
+**This branch is 5028 commits ahead of and 2 commits behind `NapNeko/NapCatQQ:main`.**
+
 <img src="https://napneko.github.io/assets/newnewlogo.png" width = "305" height = "411" alt="NapCat" align=right />
 <div align="center">
 
