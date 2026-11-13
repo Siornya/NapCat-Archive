@@ -28,7 +28,7 @@
         "napcat-protobuf": "workspace:*",
         "napcat-webui-backend": "workspace:*",
         "napcat.protobuf": "^1.1.4",
-        "on-finished": "^2.3.5",
+        "on-finished": "^2.4.2",
         "type-is": "^1.6.7",
         "ws": "^8.18.3"
     },
